@@ -7,5 +7,6 @@ namespace FakeBlog.Models
 {
     public class Author
     {
+        
     }
 }
